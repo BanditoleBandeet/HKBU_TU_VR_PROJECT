@@ -82,7 +82,6 @@
 		},
 		{
 			"Name": "HDRIBackdrop",
-			"Name": "ModelingToolsEditorMode",
 			"Enabled": true
 		}
 	],
